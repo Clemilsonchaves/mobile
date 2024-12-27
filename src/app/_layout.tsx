@@ -32,6 +32,6 @@ export default function Layout() {
           contentStyle: { backgroundColor: colors.gray[100] },
         }}
       />
-    </GestureHandlerRootView>
+    </GestureHandlerRootView>   
   )
 }
